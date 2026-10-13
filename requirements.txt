@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+optuna
+xgboost
+lightgbm
+catboost
+openpyxl
+joblib
